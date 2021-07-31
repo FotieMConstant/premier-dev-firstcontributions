@@ -1,13 +1,19 @@
 ## Here's the list of all the contributors of  this repository!
 
 - fotiecodes
+- npateson
+- Christy
+- Kelison
 - Christy
 
 
 
 
 
-- npateson
+
+
+
+
 
 
 
